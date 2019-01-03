@@ -1,6 +1,6 @@
 token=NTA1MzQ0NDk3ODU3ODU1NTA4.DvtWvg.UaP2GhGru5UgL2SrL5C2LQA_0Wc
-owner=320423357709549568
+owner=515458477053706251
 prefix= M
-game= Meeercy ,
+game= Meeeercy ,
 stayinchannel=true
 songinstatus=true
